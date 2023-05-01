@@ -1,0 +1,25 @@
+#Yellow {
+    color: yellow;
+}
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+#black {
+    color: black;
+}
+#green {
+    color: green;
+}
+.size {
+    width: 200px;
+    height: 200px;
+}
+.text {
+    font-size: 30px;
+}
+.center {
+    text-align: center;
+}
